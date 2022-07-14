@@ -38,16 +38,16 @@ class HeadsorTails {
 
 
 	if(c>c1){
-	System.out.println("You won!");
+	System.out.println(NAME+" won!");
        
 	}
 
 
 	if(c<c1){
-	System.out.println("You lose.");
+	System.out.println(NAME+" lose.");
        
 	}
-	
+
     }
 
 
