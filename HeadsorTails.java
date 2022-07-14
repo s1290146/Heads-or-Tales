@@ -33,5 +33,24 @@ class HeadsorTails {
 	}
 	
 	System.out.println("Heads: "+c+", Tails: "+c1);
+
+
+
+
+	if(c>c1){
+	System.out.println("You won!");
+       
+	}
+
+
+	if(c<c1){
+	System.out.println("You lose.");
+       
+	}
+	
     }
+
+
+
+    
 }
